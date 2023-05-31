@@ -1,4 +1,22 @@
+# GPT-4
+
+## To create react app
+```sh
+npx create-react-app ./
+```
+
+To install React icons
+```sh
+npm install react-icons
+```
+
+
+
+
 # Getting Started with Create React App
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
