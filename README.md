@@ -1,5 +1,7 @@
 # GPT-4
 
+Start from 29:31 for index.css code
+
 ## To create react app
 ```sh
 npx create-react-app ./
@@ -9,7 +11,6 @@ To install React icons
 ```sh
 npm install react-icons
 ```
-
 
 
 
