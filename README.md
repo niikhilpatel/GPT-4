@@ -1,6 +1,6 @@
 # GPT-4
 
-Start from 29:31 for index.css code
+Start from 1:06:00 code
 
 ## To create react app
 ```sh
