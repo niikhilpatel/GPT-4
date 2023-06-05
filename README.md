@@ -1,6 +1,6 @@
 # GPT-4
 
-Start from 1:06:00 code
+Start from 1:34:00 code of Brand component
 
 ## To create react app
 ```sh
