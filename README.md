@@ -1,6 +1,6 @@
 # GPT-4
 
-Start from 1:40:12 code of Brand component
+Start from 1:48:28 code of Feature component in WhatGPT3
 
 ## To create react app
 ```sh
