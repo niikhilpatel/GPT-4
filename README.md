@@ -1,6 +1,6 @@
 # GPT-4
 
-Start from 1:48:28 code of Feature component in WhatGPT3
+Start from 2:00:00 code of Feature component
 
 ## To create react app
 ```sh
