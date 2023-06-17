@@ -1,6 +1,6 @@
 # GPT-4
 
-Start from 2:00:00 code of Feature component
+Start from 2:11:35 code of Feature component next is possibility
 
 ## To create react app
 ```sh
