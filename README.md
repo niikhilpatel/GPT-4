@@ -1,6 +1,6 @@
 # GPT-4
 
-#### Start from 2:11:35 code of Feature component next is possibility
+#### Start from 2:34:52 code next is BLOG
 
 ## To create react app
 ```sh
