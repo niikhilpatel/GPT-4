@@ -1,6 +1,5 @@
 # GPT-4
 
-#### Start from 2:41:04 code next is Articles
 
 ## To create react app
 ```sh
