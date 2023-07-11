@@ -1,6 +1,11 @@
 # GPT-4
 
 
+## To Run this Project You can clone it.
+```sh
+git clone https://github.com/niikhilpatel/GPT-4.git
+```
+
 ## To create react app
 ```sh
 npx create-react-app ./
