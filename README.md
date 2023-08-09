@@ -1,5 +1,6 @@
 # GPT-4
 
+![screencapture-localhost-3000-2023-08-09-09_38_55](https://github.com/niikhilpatel/GPT-4/assets/90297144/f23c918d-d16c-46d0-90c6-2d23ff92ff6f)
 
 ## To Run this Project You can clone it.
 ```sh
@@ -16,7 +17,10 @@ To install React icons
 npm install react-icons
 ```
 
-
+To Start Project
+```sh
+npm start
+```
 
 # Getting Started with Create React App
 
